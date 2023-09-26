@@ -9,7 +9,19 @@
     height: 500px;
     width: 500px;
     margin: auto;
+    display: grid;
 }
+
+#squares {
+
+    width: 16px;
+    height: 16px;
+    border: 1px solid black;
+
+
+}
+
+
 
 .header {
     display: flex;
